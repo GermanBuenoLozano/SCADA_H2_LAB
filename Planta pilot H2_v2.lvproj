@@ -9,15 +9,16 @@
 	<Property Name="varPersistentID:{38E0C9B8-3F55-4DFD-8F06-7DA44E7819C9}" Type="Ref">/My Computer/Shared_variables.lvlib/EV3</Property>
 	<Property Name="varPersistentID:{5161562C-11C1-4356-90CB-75EABB1AEF6D}" Type="Ref">/My Computer/Shared_variables.lvlib/Baliza_roja</Property>
 	<Property Name="varPersistentID:{5BECE2CD-3637-47A9-96E3-93FA517BE37B}" Type="Ref">/My Computer/Shared_variables.lvlib/Baliza_verde</Property>
+	<Property Name="varPersistentID:{68B56417-9295-4DDE-9061-6B78AC2184B2}" Type="Ref">/My Computer/Shared_variables.lvlib/Potencia SAI (Display) 3</Property>
 	<Property Name="varPersistentID:{75C130E9-119D-4A22-BC13-700B4F6F8402}" Type="Ref">/My Computer/Shared_variables.lvlib/Presion_alta</Property>
 	<Property Name="varPersistentID:{77A084A6-DB6E-426D-894E-DD1E63F9DFD3}" Type="Ref">/My Computer/Shared_variables.lvlib/FC_Consumo_g</Property>
 	<Property Name="varPersistentID:{7C4A4B34-ED7D-495F-91A4-D92537DC3867}" Type="Ref">/My Computer/Shared_variables.lvlib/rele_seguretat</Property>
 	<Property Name="varPersistentID:{7C4DD585-1BCB-4DA0-A162-1F722807DE71}" Type="Ref">/My Computer/Shared_variables.lvlib/Presion_baja</Property>
 	<Property Name="varPersistentID:{81D88785-D986-45BF-B760-4FF6279C2B5B}" Type="Ref">/My Computer/Shared_variables.lvlib/EV5</Property>
+	<Property Name="varPersistentID:{88D44365-D80F-46BF-B815-81F28E05F202}" Type="Ref">/My Computer/Shared_variables.lvlib/Comunicacion SAI</Property>
 	<Property Name="varPersistentID:{8A553272-FAE9-44DC-9402-8FC985DC55E1}" Type="Ref">/My Computer/Shared_variables.lvlib/Compresor</Property>
 	<Property Name="varPersistentID:{9BEA4D0A-1376-4052-9767-2DA1952CB85E}" Type="Ref">/My Computer/Shared_variables.lvlib/Comunicacion inversor SALICRU</Property>
 	<Property Name="varPersistentID:{9FFB8DD9-D84D-4F58-9081-186A3CE1E075}" Type="Ref">/My Computer/Shared_variables.lvlib/Masa_alta</Property>
-	<Property Name="varPersistentID:{A25246B1-45F9-4AA9-96A8-B03261CF44AD}" Type="Ref">/My Computer/Shared_variables.lvlib/output array</Property>
 	<Property Name="varPersistentID:{A5F9EC0B-DDE8-4867-B35C-6C688A9434D4}" Type="Ref">/My Computer/Shared_variables.lvlib/Baliza_amarilla</Property>
 	<Property Name="varPersistentID:{AACCC66D-5086-416C-8753-3FAC252B0C83}" Type="Ref">/My Computer/Shared_variables.lvlib/EV6</Property>
 	<Property Name="varPersistentID:{BBD151DB-F127-44EB-B5DB-8E8D4C56671B}" Type="Ref">/My Computer/Shared_variables.lvlib/Potencia solar (Display)</Property>
