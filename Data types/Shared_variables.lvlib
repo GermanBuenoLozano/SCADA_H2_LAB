@@ -142,7 +142,6 @@
 		<Item Name="EV1" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network</Property>
 			<Property Name="Industrial:AliasVariable" Type="Str"></Property>
-			<Property Name="name" Type="Str">EV1</Property>
 			<Property Name="Network:BuffSize" Type="Str">50</Property>
 			<Property Name="Network:ProjectBinding" Type="Str">True</Property>
 			<Property Name="Network:SingleWriter" Type="Str">False</Property>
@@ -239,7 +238,6 @@
 		<Item Name="FC_Consumo_g" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network</Property>
 			<Property Name="Industrial:AliasVariable" Type="Str"></Property>
-			<Property Name="name" Type="Str">FC_Consumo_g</Property>
 			<Property Name="Network:BuffSize" Type="Str">50</Property>
 			<Property Name="Network:ProjectBinding" Type="Str">True</Property>
 			<Property Name="Network:SingleWriter" Type="Str">False</Property>
@@ -312,7 +310,6 @@
 		<Item Name="Presion_baja" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network</Property>
 			<Property Name="Industrial:AliasVariable" Type="Str"></Property>
-			<Property Name="name" Type="Str">Presion_baja</Property>
 			<Property Name="Network:BuffSize" Type="Str">50</Property>
 			<Property Name="Network:ProjectBinding" Type="Str">True</Property>
 			<Property Name="Network:SingleWriter" Type="Str">False</Property>
@@ -396,7 +393,80 @@
 			<Property Name="type" Type="Str">Network</Property>
 			<Property Name="typeDesc" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!#1!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
+		<Item Name="Corriente R" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Industrial:AliasVariable" Type="Str"></Property>
+			<Property Name="name" Type="Str">Corriente R</Property>
+			<Property Name="Network:BuffSize" Type="Str">50</Property>
+			<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+			<Property Name="Network:SingleWriter" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">True</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!#1!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="Corriente S" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Industrial:AliasVariable" Type="Str"></Property>
+			<Property Name="Network:BuffSize" Type="Str">50</Property>
+			<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+			<Property Name="Network:SingleWriter" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">True</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!#1!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="Corriente T" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Industrial:AliasVariable" Type="Str"></Property>
+			<Property Name="Network:BuffSize" Type="Str">50</Property>
+			<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+			<Property Name="Network:SingleWriter" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">True</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!#1!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
 		<Item Name="Potencia SAI" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Industrial:AliasVariable" Type="Str"></Property>
+			<Property Name="Network:BuffSize" Type="Str">50</Property>
+			<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+			<Property Name="Network:SingleWriter" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">True</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!#1!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="Salida Vr" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Industrial:AliasVariable" Type="Str"></Property>
+			<Property Name="Network:BuffSize" Type="Str">50</Property>
+			<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+			<Property Name="Network:SingleWriter" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">True</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!#1!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="Salida Vs" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Industrial:AliasVariable" Type="Str"></Property>
+			<Property Name="Network:BuffSize" Type="Str">50</Property>
+			<Property Name="Network:ProjectBinding" Type="Str">True</Property>
+			<Property Name="Network:SingleWriter" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">True</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typeDesc" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!#1!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="Salida Vt" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network</Property>
 			<Property Name="Industrial:AliasVariable" Type="Str"></Property>
 			<Property Name="Network:BuffSize" Type="Str">50</Property>

@@ -5,6 +5,7 @@
 	<Property Name="varPersistentID:{06D7E07A-1CD8-4340-8B8A-36C08A5EE8E2}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Sobretensions</Property>
 	<Property Name="varPersistentID:{0BFB1972-C557-475B-8EB7-5CF1C7134EDC}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/EV2</Property>
 	<Property Name="varPersistentID:{0E4163BE-475C-4232-9765-DACBEFE2F1F9}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Temperatura</Property>
+	<Property Name="varPersistentID:{1440EBFB-D064-46B8-A5F3-34890F0D186D}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Corriente S</Property>
 	<Property Name="varPersistentID:{266B8903-06A2-41C7-A62A-B94505FB2211}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/conc_H2_1</Property>
 	<Property Name="varPersistentID:{2C13BCA2-3DD2-4FB7-A45F-16B108FD7052}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/EV4</Property>
 	<Property Name="varPersistentID:{34CEC7E5-6751-402E-B461-79391D3B6122}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/consumoCompresor</Property>
@@ -14,13 +15,16 @@
 	<Property Name="varPersistentID:{5161562C-11C1-4356-90CB-75EABB1AEF6D}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Baliza_roja</Property>
 	<Property Name="varPersistentID:{5BECE2CD-3637-47A9-96E3-93FA517BE37B}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Baliza_verde</Property>
 	<Property Name="varPersistentID:{68B56417-9295-4DDE-9061-6B78AC2184B2}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Potencia SAI</Property>
+	<Property Name="varPersistentID:{6EE106FF-892E-4570-A832-A3ABD46972C4}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Salida Vr</Property>
 	<Property Name="varPersistentID:{75C130E9-119D-4A22-BC13-700B4F6F8402}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Presion_alta</Property>
 	<Property Name="varPersistentID:{77A084A6-DB6E-426D-894E-DD1E63F9DFD3}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/FC_Consumo_g</Property>
 	<Property Name="varPersistentID:{7C4A4B34-ED7D-495F-91A4-D92537DC3867}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/rele_seguretat</Property>
 	<Property Name="varPersistentID:{7C4DD585-1BCB-4DA0-A162-1F722807DE71}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Presion_baja</Property>
 	<Property Name="varPersistentID:{81D88785-D986-45BF-B760-4FF6279C2B5B}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/EV5</Property>
+	<Property Name="varPersistentID:{86A174F6-A7B1-4754-8112-BFAA2FD30210}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Salida Vs</Property>
 	<Property Name="varPersistentID:{88D44365-D80F-46BF-B815-81F28E05F202}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Comunicacion SAI</Property>
 	<Property Name="varPersistentID:{8A553272-FAE9-44DC-9402-8FC985DC55E1}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Compresor</Property>
+	<Property Name="varPersistentID:{8CDB7E3F-D833-4DCB-96CE-21881A9CED32}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Corriente R</Property>
 	<Property Name="varPersistentID:{91BBE85D-B233-490C-8470-F71561D4D007}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/concH2_2</Property>
 	<Property Name="varPersistentID:{9BEA4D0A-1376-4052-9767-2DA1952CB85E}" Type="Ref">/My Computer/Shared_variables.lvlib/EMS SALICRU/Comunicacion inversor SALICRU</Property>
 	<Property Name="varPersistentID:{9FFB8DD9-D84D-4F58-9081-186A3CE1E075}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Masa_alta</Property>
@@ -31,6 +35,8 @@
 	<Property Name="varPersistentID:{C2E1E63B-2AE0-42F7-B717-AE9D5B2D5E6F}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Extractor1</Property>
 	<Property Name="varPersistentID:{C33F581F-901C-4A11-8FCB-9D9786D401E4}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/FC_Produccion</Property>
 	<Property Name="varPersistentID:{CB111469-3B2C-4F1E-8071-F59F47D93BDA}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Masa_baja</Property>
+	<Property Name="varPersistentID:{CE73DA70-55DB-40BB-8E1F-2B6263CFC6F8}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Corriente T</Property>
+	<Property Name="varPersistentID:{E7FF9A4B-BA0E-4C51-A45B-82EA641479A3}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Salida Vt</Property>
 	<Property Name="varPersistentID:{ECC13331-15A5-46B5-91BB-1E2F4F5219C0}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Termic_extractors</Property>
 	<Property Name="varPersistentID:{F871E729-CE11-467F-8006-FE366C587788}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/EV1</Property>
 	<Property Name="varPersistentID:{FE969BA4-E033-4192-A000-7749D7EAAA03}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Array_opc_ua</Property>
