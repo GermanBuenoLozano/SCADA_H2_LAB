@@ -6,5 +6,4 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="(SubVI)SAI_PANEL_CODIGO.vi" Type="VI" URL="../SALICRU MODBUS/(SubVI)SAI_PANEL_CODIGO.vi"/>
 	<Item Name="read_inverter (SubVI).vi" Type="VI" URL="../S7-1200 OPC UA/read_inverter (SubVI).vi"/>
-	<Item Name="SAI_panel_codigo.vi" Type="VI" URL="../SALICRU MODBUS/SAI_panel_codigo.vi"/>
 </Library>
