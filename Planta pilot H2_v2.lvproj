@@ -101,6 +101,7 @@
 			<Item Name="Reading_ELYs_OPC_UA (SubVI).vi" Type="VI" URL="../SubVIs/Reading_ELYs_OPC_UA (SubVI).vi"/>
 			<Item Name="Save_PLC (SubVI).vi" Type="VI" URL="../SubVIs/Save_PLC (SubVI).vi"/>
 			<Item Name="Save_Time (SubVI).vi" Type="VI" URL="../SubVIs/Save_Time (SubVI).vi"/>
+			<Item Name="Aire (subVI).vi" Type="VI" URL="../SubVIs/Aire (subVI).vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Living H2 Lab" Type="EXE">
