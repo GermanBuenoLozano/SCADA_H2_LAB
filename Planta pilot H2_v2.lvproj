@@ -5,6 +5,7 @@
 	<Property Name="varPersistentID:{03DBD56B-A1F8-4295-9874-E01488FF07AF}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Humedad</Property>
 	<Property Name="varPersistentID:{06D7E07A-1CD8-4340-8B8A-36C08A5EE8E2}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Sobretensions</Property>
 	<Property Name="varPersistentID:{0BFB1972-C557-475B-8EB7-5CF1C7134EDC}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/EV2</Property>
+	<Property Name="varPersistentID:{0D535B67-6FC2-4EF2-86EC-56AD95551DBF}" Type="Ref">/My Computer/Shared_variables.lvlib/EMS SALICRU/_EMS_prev_reconnect</Property>
 	<Property Name="varPersistentID:{0E4163BE-475C-4232-9765-DACBEFE2F1F9}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Temperatura</Property>
 	<Property Name="varPersistentID:{0EEDB8EB-6155-4924-8254-F8EBD654594D}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/H2S</Property>
 	<Property Name="varPersistentID:{1440EBFB-D064-46B8-A5F3-34890F0D186D}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Corriente S</Property>
@@ -15,6 +16,7 @@
 	<Property Name="varPersistentID:{38E0C9B8-3F55-4DFD-8F06-7DA44E7819C9}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/EV3</Property>
 	<Property Name="varPersistentID:{3A407C17-A926-4E8A-9B10-85A702950249}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Extractor2</Property>
 	<Property Name="varPersistentID:{3C072BCD-6E97-4355-85BA-7317B91E910E}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/CO</Property>
+	<Property Name="varPersistentID:{458C4B1E-59B5-49B3-B987-8196415A962B}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/_SAI_prev_reconnect</Property>
 	<Property Name="varPersistentID:{4ABC170E-05F5-4E7E-B328-9838B9BF8DDE}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/SO2</Property>
 	<Property Name="varPersistentID:{5161562C-11C1-4356-90CB-75EABB1AEF6D}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Baliza_roja</Property>
 	<Property Name="varPersistentID:{54D0EB83-D36E-430D-A43A-9D6ABE4323E8}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/_ELYS_prev_time</Property>
@@ -22,6 +24,7 @@
 	<Property Name="varPersistentID:{68B56417-9295-4DDE-9061-6B78AC2184B2}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Potencia SAI</Property>
 	<Property Name="varPersistentID:{6EE106FF-892E-4570-A832-A3ABD46972C4}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Salida Vr</Property>
 	<Property Name="varPersistentID:{75C130E9-119D-4A22-BC13-700B4F6F8402}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Presion_alta</Property>
+	<Property Name="varPersistentID:{75C7E7B2-AF70-4AFA-B88E-5A5A7EAFBC09}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/_Gases_prev_reconnect</Property>
 	<Property Name="varPersistentID:{75E812EC-2A5F-4121-B5FF-2E51EFCBCA30}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/O3</Property>
 	<Property Name="varPersistentID:{77A084A6-DB6E-426D-894E-DD1E63F9DFD3}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/FC_Consumo_g</Property>
 	<Property Name="varPersistentID:{7C4A4B34-ED7D-495F-91A4-D92537DC3867}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/rele_seguretat</Property>
@@ -39,6 +42,7 @@
 	<Property Name="varPersistentID:{9FFB8DD9-D84D-4F58-9081-186A3CE1E075}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Masa_alta</Property>
 	<Property Name="varPersistentID:{A4290F17-84E9-4828-B164-9C2B77C83EA4}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Presion_Produccion</Property>
 	<Property Name="varPersistentID:{A5F9EC0B-DDE8-4867-B35C-6C688A9434D4}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Baliza_amarilla</Property>
+	<Property Name="varPersistentID:{A987C1D0-7F0C-4C93-BCF4-A8C21638588B}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/Comunicacion_gases</Property>
 	<Property Name="varPersistentID:{AACCC66D-5086-416C-8753-3FAC252B0C83}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/EV6</Property>
 	<Property Name="varPersistentID:{B587E4CC-13A9-4AE7-8008-0AC5153D2A04}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/TVOC</Property>
 	<Property Name="varPersistentID:{BBD151DB-F127-44EB-B5DB-8E8D4C56671B}" Type="Ref">/My Computer/Shared_variables.lvlib/EMS SALICRU/Potencia solar</Property>
