@@ -16,13 +16,18 @@
 	<Property Name="varPersistentID:{38E0C9B8-3F55-4DFD-8F06-7DA44E7819C9}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/EV3</Property>
 	<Property Name="varPersistentID:{3A407C17-A926-4E8A-9B10-85A702950249}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Extractor2</Property>
 	<Property Name="varPersistentID:{3C072BCD-6E97-4355-85BA-7317B91E910E}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/CO</Property>
+	<Property Name="varPersistentID:{42E57465-D319-47B0-A84B-1262C91E2FED}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/ELYs_Medidas_1</Property>
 	<Property Name="varPersistentID:{458C4B1E-59B5-49B3-B987-8196415A962B}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/_SAI_prev_reconnect</Property>
 	<Property Name="varPersistentID:{4ABC170E-05F5-4E7E-B328-9838B9BF8DDE}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/SO2</Property>
+	<Property Name="varPersistentID:{4B1FDF23-596E-4400-9631-ECFAE77A4C52}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/ELYs_Medidas_6</Property>
+	<Property Name="varPersistentID:{50ADE9DE-7F00-4CA0-B62C-D47B1DB97DDC}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/ELYs_Produccio_inst</Property>
 	<Property Name="varPersistentID:{5161562C-11C1-4356-90CB-75EABB1AEF6D}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Baliza_roja</Property>
 	<Property Name="varPersistentID:{54D0EB83-D36E-430D-A43A-9D6ABE4323E8}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/_ELYS_prev_time</Property>
 	<Property Name="varPersistentID:{5BECE2CD-3637-47A9-96E3-93FA517BE37B}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Baliza_verde</Property>
+	<Property Name="varPersistentID:{646A76A8-A060-4AA5-8904-4AA9AD94F9C6}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/ELYs_Medidas_11</Property>
 	<Property Name="varPersistentID:{68B56417-9295-4DDE-9061-6B78AC2184B2}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Potencia SAI</Property>
 	<Property Name="varPersistentID:{6EE106FF-892E-4570-A832-A3ABD46972C4}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Salida Vr</Property>
+	<Property Name="varPersistentID:{6F6BC7EA-8619-49C3-9354-0CB26AA31135}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/ELYs_Medidas_4</Property>
 	<Property Name="varPersistentID:{75C130E9-119D-4A22-BC13-700B4F6F8402}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Presion_alta</Property>
 	<Property Name="varPersistentID:{75C7E7B2-AF70-4AFA-B88E-5A5A7EAFBC09}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/_Gases_prev_reconnect</Property>
 	<Property Name="varPersistentID:{75E812EC-2A5F-4121-B5FF-2E51EFCBCA30}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/O3</Property>
@@ -31,12 +36,15 @@
 	<Property Name="varPersistentID:{7C4DD585-1BCB-4DA0-A162-1F722807DE71}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Presion_baja</Property>
 	<Property Name="varPersistentID:{81D88785-D986-45BF-B760-4FF6279C2B5B}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/EV5</Property>
 	<Property Name="varPersistentID:{86A174F6-A7B1-4754-8112-BFAA2FD30210}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Salida Vs</Property>
+	<Property Name="varPersistentID:{87BA0F0A-2632-42CE-9A04-E004AB6B52A7}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/ELYs_Produccio_Total</Property>
 	<Property Name="varPersistentID:{88D44365-D80F-46BF-B815-81F28E05F202}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Comunicacion SAI</Property>
 	<Property Name="varPersistentID:{8A553272-FAE9-44DC-9402-8FC985DC55E1}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Compresor</Property>
 	<Property Name="varPersistentID:{8CDB7E3F-D833-4DCB-96CE-21881A9CED32}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Corriente R</Property>
+	<Property Name="varPersistentID:{91B2615A-50AF-4E47-912D-C9D00B51C990}" Type="Ref">/My Computer/Shared_variables.lvlib/Stop</Property>
 	<Property Name="varPersistentID:{91BBE85D-B233-490C-8470-F71561D4D007}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/concH2_2</Property>
 	<Property Name="varPersistentID:{9357FA80-10E6-478B-8A07-C86B52D4C2BF}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/O2</Property>
 	<Property Name="varPersistentID:{94F9267D-CCAB-40F3-AADA-39E01E74B7B0}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/NO2</Property>
+	<Property Name="varPersistentID:{98FDF4C3-E9BC-4022-B8FF-67EC3E9F289C}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/ELYs_Medidas_2</Property>
 	<Property Name="varPersistentID:{9AD37E9A-CEF2-4C42-821C-2AFDD00F661D}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/_Gases_Iterador</Property>
 	<Property Name="varPersistentID:{9BEA4D0A-1376-4052-9767-2DA1952CB85E}" Type="Ref">/My Computer/Shared_variables.lvlib/EMS SALICRU/Comunicacion inversor SALICRU</Property>
 	<Property Name="varPersistentID:{9FFB8DD9-D84D-4F58-9081-186A3CE1E075}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Masa_alta</Property>
@@ -45,13 +53,19 @@
 	<Property Name="varPersistentID:{A987C1D0-7F0C-4C93-BCF4-A8C21638588B}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/Comunicacion_gases</Property>
 	<Property Name="varPersistentID:{AACCC66D-5086-416C-8753-3FAC252B0C83}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/EV6</Property>
 	<Property Name="varPersistentID:{B587E4CC-13A9-4AE7-8008-0AC5153D2A04}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/TVOC</Property>
+	<Property Name="varPersistentID:{B78C83AC-4003-4DBE-BDAB-6AA54D7740C0}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/ELYs_Medidas_10</Property>
 	<Property Name="varPersistentID:{BBD151DB-F127-44EB-B5DB-8E8D4C56671B}" Type="Ref">/My Computer/Shared_variables.lvlib/EMS SALICRU/Potencia solar</Property>
 	<Property Name="varPersistentID:{C2E1E63B-2AE0-42F7-B717-AE9D5B2D5E6F}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Extractor1</Property>
 	<Property Name="varPersistentID:{C33F581F-901C-4A11-8FCB-9D9786D401E4}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/FC_Produccion</Property>
+	<Property Name="varPersistentID:{C3449E58-9EA9-444A-A5D7-04AB6DE0354B}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/ELYs_Medidas_5</Property>
+	<Property Name="varPersistentID:{C54E69CB-4B5D-4D23-9CB0-7A6349F81E94}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/ELYs_Medidas_7</Property>
 	<Property Name="varPersistentID:{CAAB99A2-FBC3-457F-9302-2FCEABC995A5}" Type="Ref">/My Computer/Shared_variables.lvlib/Gases/CO2</Property>
 	<Property Name="varPersistentID:{CB111469-3B2C-4F1E-8071-F59F47D93BDA}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Masa_baja</Property>
 	<Property Name="varPersistentID:{CE73DA70-55DB-40BB-8E1F-2B6263CFC6F8}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Corriente T</Property>
+	<Property Name="varPersistentID:{D31CC647-69C4-46CA-862D-4BBFE7E00013}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/ELYs_Medidas_8</Property>
 	<Property Name="varPersistentID:{E7FF9A4B-BA0E-4C51-A45B-82EA641479A3}" Type="Ref">/My Computer/Shared_variables.lvlib/SAI/Salida Vt</Property>
+	<Property Name="varPersistentID:{E8E7EA25-1AEC-4AD9-86B9-CE310DFB41BD}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/ELYs_Medidas_9</Property>
+	<Property Name="varPersistentID:{E91578EE-09F7-4B6E-9F75-EE803E7E460A}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/ELYs_Medidas_3</Property>
 	<Property Name="varPersistentID:{ECC13331-15A5-46B5-91BB-1E2F4F5219C0}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/Termic_extractors</Property>
 	<Property Name="varPersistentID:{F5540BC7-13C7-4D36-80F1-68927B45D127}" Type="Ref">/My Computer/Shared_variables.lvlib/ELYs/_ELYS_iterador</Property>
 	<Property Name="varPersistentID:{F871E729-CE11-467F-8006-FE366C587788}" Type="Ref">/My Computer/Shared_variables.lvlib/PLC/EV1</Property>
@@ -79,6 +93,7 @@
 		<Item Name="SALICRUAPI.lvlib" Type="Library" URL="../SALICRUAPI.lvlib"/>
 		<Item Name="Shared_variables.lvlib" Type="Library" URL="../Data types/Shared_variables.lvlib"/>
 		<Item Name="PLC_Decode (SubVI).vi" Type="VI" URL="../SubVIs/PLC_Decode (SubVI).vi"/>
+		<Item Name="Act_shared_ELYs (SubVI).vi" Type="VI" URL="../S7-1200 OPC UA/Act_shared_ELYs (SubVI).vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
