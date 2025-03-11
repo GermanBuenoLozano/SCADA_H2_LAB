@@ -87,13 +87,15 @@
 			<Item Name="round_at_dec (SubVI).vi" Type="VI" URL="../round_at_dec (SubVI).vi"/>
 			<Item Name="calculo_m_H2 (SubVI).vi" Type="VI" URL="../calculo_m_H2 (SubVI).vi"/>
 		</Item>
+		<Item Name="Test" Type="Folder">
+			<Item Name="Historico_consumo.vi" Type="VI" URL="../SubVIs/Historico_consumo.vi"/>
+		</Item>
 		<Item Name="Modelo planta H2_V2.vi" Type="VI" URL="../Modelo planta H2_V2.vi"/>
 		<Item Name="S7-1200_OPCUA.lvlib" Type="Library" URL="../S7-1200_OPCUA.lvlib"/>
 		<Item Name="SALICRU_MODBUS.lvlib" Type="Library" URL="../SALICRU_MODBUS.lvlib"/>
 		<Item Name="SALICRUAPI.lvlib" Type="Library" URL="../SALICRUAPI.lvlib"/>
 		<Item Name="Shared_variables.lvlib" Type="Library" URL="../Data types/Shared_variables.lvlib"/>
-		<Item Name="PLC_Decode (SubVI).vi" Type="VI" URL="../SubVIs/PLC_Decode (SubVI).vi"/>
-		<Item Name="Act_shared_ELYs (SubVI).vi" Type="VI" URL="../S7-1200 OPC UA/Act_shared_ELYs (SubVI).vi"/>
+		<Item Name="DB_API.lvclass" Type="LVClass" URL="../SubVIs/DB_API/DB_API.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
@@ -122,6 +124,10 @@
 				<Item Name="Subscription Data Change.ctl" Type="VI" URL="/&lt;vilib&gt;/OPCUA/controls/Subscription Data Change.ctl"/>
 				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
 				<Item Name="FormatTime String.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
+				<Item Name="LabVIEWHTTPClient.lvlib" Type="Library" URL="/&lt;vilib&gt;/httpClient/LabVIEWHTTPClient.lvlib"/>
+				<Item Name="Path To Command Line String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Path To Command Line String.vi"/>
+				<Item Name="PathToUNIXPathString.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/CFURL.llb/PathToUNIXPathString.vi"/>
+				<Item Name="Waveform Array To Dynamic.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/transition.llb/Waveform Array To Dynamic.vi"/>
 			</Item>
 			<Item Name="ni_opcua.dll" Type="Document" URL="ni_opcua.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
